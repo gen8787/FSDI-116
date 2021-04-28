@@ -8,7 +8,7 @@
   * Create a user account
   * View user accoount
   * Update user account
-  * Delete user account
+  * Delete user account  
     &nbsp;
   * Login to the website
   * Logout of the website
