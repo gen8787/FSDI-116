@@ -10,12 +10,11 @@
     * Update user account
       - Must be able to update newly created user in db
     * Delete user account
-      - Must be able to delete newly created user from db   
+      - Must be able to delete newly created user from db  
     &nbsp;
     * Login to the website
       - Username & password correct = user login
       - Username and/or password incorrect = user can't login
-
     * Logout of the website
       - User can't access any pages except the landing page
     * Change my password
@@ -23,7 +22,7 @@
     * Reset a password
       - User able to request a password reset
     * Reset username
-      - User able to request a forgotten username
+      - User able to request a forgotten username  
     &nbsp;
     * Use the munter calculator to determine tour times
       - The calculation must be accurate
