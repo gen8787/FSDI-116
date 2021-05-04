@@ -5,9 +5,9 @@
 ## Contents
 1. [Project Definition](#project-definition)
 2. [Software Requirements](#software-requirements)
-3. [Scrum Structure](#scrum-structure)
-  1. [Product Backlog](#1.-product-backlog)
-  2. [Sprint Backlog](#3.-sprint-backlog)
+3. [Scrum Structure](#scrum-structure)  
+    1. [Product Backlog](#product-backlog)
+    2. [Sprint Backlog](#sprint-backlog)
 
 ## Project Definition
 
@@ -40,7 +40,7 @@ Outdoorsy person of any age that wants to know how long a tour will take.
 
 ## Scrum Structure
 
-### 1. Product Backlog
+### Product Backlog
 
 **As a user, I want to:**
 - [ ] Create a user account
@@ -60,10 +60,10 @@ Outdoorsy person of any age that wants to know how long a tour will take.
 - [ ] Update tours
 - [ ] Delete tours
 
-### 2. Duration of Sprints
+### Duration of Sprints
 As the project is fairly simple, there is a limited amount of time, and only one person working on the project, sprints will be kept short. I believe this will help by setting small and attainable goals, and also to get the feel for multiple sprints. I was thinking 2-4 day working sprints.
 
-### 3. Sprint Backlog
+### Sprint Backlog
 
 #### Sprint 1
 - [ ] Initial Project Setup
