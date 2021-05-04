@@ -3,11 +3,11 @@
 #### Polish and add to your previous Scrum structure of your project all the tests necessary for each one of your sprints.
 
 ## Contents
-  1. [Project Definition](#project-definition)
-  2. [Software Requirements](#software-requirements)
-  3. [Scrum Structure](#scrum-structure)
-    1. [Product Backlog](#product-backlog)
-    2. [Sprint Backlog](#sprint-backlog)
+1. [Project Definition](#project-definition)
+2. [Software Requirements](#software-requirements)
+3. [Scrum Structure](#scrum-structure)
+  1. [Product Backlog](#1.-product-backlog)
+  2. [Sprint Backlog](#3.-sprint-backlog)
 
 ## Project Definition
 
