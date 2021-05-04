@@ -6,6 +6,8 @@
   1. [Project Definition](#project-definition)
   2. [Software Requirements](#software-requirements)
   3. [Scrum Structure](#scrum-structure)
+    1. [Product Backlog](#product-backlog)
+    2. [Sprint Backlog](#sprint-backlog)
 
 ## Project Definition
 
